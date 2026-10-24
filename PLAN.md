@@ -41,7 +41,10 @@ Jev and animates **how** the decision was made on the same pixel-art canvas.
 - Section-level options list every sub-class title (≈1,000) → large prompt; same trade-off as SSOC.
 
 ## Status (2026-10-25)
-Steps 1–4 done; see `TEST_RESULTS.md` (10/12 exact vs employer tags, 12/12 reached finals).
+All 6 steps done. Steps 1–4: see `TEST_RESULTS.md` (10/12 exact vs employer tags, 12/12 reached
+finals). Step 5: https://github.com/blurboy1985/ssic-decision-trail (public, like SSOC). Step 6: Worker
+`ssic-decision-trail` live at https://ssic.danielquek.com, own KV namespace and rate-limit
+namespaces (2403/2404), `TYPESAFE_API_KEY` secret set; live classify + MCF load verified.
 Plan changes made during execution:
 - MCF's `ssicCode2020` field already holds SSIC 2025 codes → used directly as the reference;
   `ssicCode` (SSIC 2020) is mapped through the correspondence table only as a fallback.
