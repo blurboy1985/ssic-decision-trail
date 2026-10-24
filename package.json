@@ -1,0 +1,24 @@
+{
+  "name": "ssic-decision-trail",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Animated pixel-art walkthrough of how TypeSafe Jev picks an SSIC 2025 industry code for a business",
+  "scripts": {
+    "start": "node server.mjs",
+    "build:data": "python tools/build_ssic.py raw/ssic2025_definitions.xlsx raw/ssic2025_alphabetical_index.xlsx raw/ssic_correspondence_2025_2020.xlsx data/ssic2025.json",
+    "samples": "node tools/snapshot_samples.mjs",
+    "eval": "node tools/eval.mjs",
+    "dev:cf": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.7.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.151.1"
+  }
+}

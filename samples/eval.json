@@ -1,0 +1,278 @@
+[
+  {
+    "label": "Noodle maker",
+    "name": "HIAP GIAP FOOD MANUFACTURE PTE. LTD.",
+    "expected": [
+      {
+        "code": "10740",
+        "title": "Manufacture of macaroni, noodles, vermicelli and other related products"
+      }
+    ],
+    "winner": {
+      "code": "10740",
+      "title": "Manufacture of macaroni, noodles, vermicelli and other related products",
+      "p": 1
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "C:100% A:0% B:0%",
+    "path": "C>10>107>1074>10740",
+    "ms": 1476,
+    "tokens": 27445
+  },
+  {
+    "label": "Pharma plant",
+    "name": "NOVARTIS SINGAPORE PHARMACEUTICAL MANUFACTURING PTE. LTD.",
+    "expected": [
+      {
+        "code": "21022",
+        "title": "Manufacture of other biological products and preparations for human use"
+      }
+    ],
+    "winner": {
+      "code": "21012",
+      "title": "Manufacture of pharmaceutical products and preparations for human use",
+      "p": 0.95
+    },
+    "exact": false,
+    "classMatch": false,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "C:100% A:0% B:0%",
+    "path": "C>21>210>2101>21012",
+    "ms": 1460,
+    "tokens": 30340
+  },
+  {
+    "label": "Recycler",
+    "name": "NEW CENTURY RECYCLING",
+    "expected": [
+      {
+        "code": "38301",
+        "title": "Recycling of metal waste and scrap"
+      }
+    ],
+    "winner": {
+      "code": "38301",
+      "title": "Recycling of metal waste and scrap",
+      "p": 0.89
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "E:98% G:2% A:0%",
+    "path": "E>38>383>3830>38301",
+    "ms": 1487,
+    "tokens": 25212
+  },
+  {
+    "label": "Shipping line",
+    "name": "NORDEN SHIPPING (SINGAPORE) PTE. LTD.",
+    "expected": [
+      {
+        "code": "50021",
+        "title": "Shipping companies and chartering of ships/boats with crew (freight)"
+      }
+    ],
+    "winner": {
+      "code": "50023",
+      "title": "Branches of foreign shipping lines",
+      "p": 0.68
+    },
+    "exact": false,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "H:100% A:0% B:0%",
+    "path": "H>50>500>5002>50023",
+    "ms": 1568,
+    "tokens": 22489
+  },
+  {
+    "label": "Heritage hotel",
+    "name": "GOODWOOD PARK HOTEL PRIVATE LIMITED",
+    "expected": [
+      {
+        "code": "55101",
+        "title": "Hotels"
+      }
+    ],
+    "winner": {
+      "code": "55101",
+      "title": "Hotels",
+      "p": 1
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.95,
+    "level1": "I:100% A:0% B:0%",
+    "path": "I>55>551>5510>55101",
+    "ms": 1475,
+    "tokens": 21471
+  },
+  {
+    "label": "BBQ restaurant",
+    "name": "BURNT ENDS RESTAURANT PTE. LTD.",
+    "expected": [
+      {
+        "code": "56111",
+        "title": "Restaurants"
+      }
+    ],
+    "winner": {
+      "code": "56111",
+      "title": "Restaurants",
+      "p": 1
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "I:100% A:0% B:0%",
+    "path": "I>56>561>5611>56111",
+    "ms": 1464,
+    "tokens": 21120
+  },
+  {
+    "label": "Software house",
+    "name": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
+    "expected": [
+      {
+        "code": "62011",
+        "title": "Development of software and applications (except games and cybersecurity)"
+      }
+    ],
+    "winner": {
+      "code": "62011",
+      "title": "Development of software and applications (except games and cybersecurity)",
+      "p": 0.74
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.96,
+    "level1": "K:98% J:2% A:0%",
+    "path": "K>62>620>6201>62011",
+    "ms": 1547,
+    "tokens": 21007
+  },
+  {
+    "label": "Bank",
+    "name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+    "expected": [
+      {
+        "code": "64120",
+        "title": "Full banks"
+      }
+    ],
+    "winner": {
+      "code": "64120",
+      "title": "Full banks",
+      "p": 0.98
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "L:100% A:0% B:0%",
+    "path": "L>64>641>6412>64120",
+    "ms": 1243,
+    "tokens": 19886
+  },
+  {
+    "label": "Recruitment firm",
+    "name": "WECRUIT PTE. LTD.",
+    "expected": [
+      {
+        "code": "78104",
+        "title": "Employment agencies (except domestic worker employment placement agencies)"
+      }
+    ],
+    "winner": {
+      "code": "78104",
+      "title": "Employment agencies (except domestic worker employment placement agencies)",
+      "p": 0.98
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "O:99% N:1% A:0%",
+    "path": "O>78>781>7810>78104",
+    "ms": 1331,
+    "tokens": 23298
+  },
+  {
+    "label": "Security agency",
+    "name": "METROPOLIS SECURITY SYSTEMS PTE. LTD.",
+    "expected": [
+      {
+        "code": "80100",
+        "title": "Private security activities"
+      }
+    ],
+    "winner": {
+      "code": "80100",
+      "title": "Private security activities",
+      "p": 0.99
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "O:99% Q:1% A:0%",
+    "path": "O>80>801>8010>80100",
+    "ms": 1480,
+    "tokens": 21253
+  },
+  {
+    "label": "Cleaning company",
+    "name": "HCH CLEANING SERVICES PTE. LTD.",
+    "expected": [
+      {
+        "code": "81211",
+        "title": "General cleaning services (except household cleaning)"
+      }
+    ],
+    "winner": {
+      "code": "81211",
+      "title": "General cleaning services (except household cleaning)",
+      "p": 0.98
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.98,
+    "level1": "O:100% A:0% B:0%",
+    "path": "O>81>812>8121>81211",
+    "ms": 1481,
+    "tokens": 22356
+  },
+  {
+    "label": "University",
+    "name": "NANYANG TECHNOLOGICAL UNIVERSITY",
+    "expected": [
+      {
+        "code": "85402",
+        "title": "Universities"
+      }
+    ],
+    "winner": {
+      "code": "85402",
+      "title": "Universities",
+      "p": 0.98
+    },
+    "exact": true,
+    "classMatch": true,
+    "expectedInFinals": true,
+    "isBusiness": 0.96,
+    "level1": "Q:99% N:1% A:0%",
+    "path": "Q>85>854>8540>85402",
+    "ms": 1257,
+    "tokens": 24127
+  }
+]

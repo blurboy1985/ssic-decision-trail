@@ -1,0 +1,12 @@
+Noodle maker | c9b72b290037ebe846b16227f7fc4d24
+Pharma plant | 0fa518d90e6ccc7113bc0d921a7c4bea
+Recycler | 3b0b26375b2c6f00974009201103b5ff
+Shipping line | a48089fff8611bcd1a411158277c0ff7
+Heritage hotel | afffa3bb4b72f655a6290d540f0112da
+BBQ restaurant | cc280ba07c7987fcf49e8620bc926b94
+Software house | 9e5fbd8fc3d3ec474278cae650f0b67d
+Bank | 932e351d10a09c2e3ecd9fdc186ff88f
+Recruitment firm | 92200f38243296b19c835c0f6217b6f0
+Security agency | bfd98dd393ddf1eb0d54c52a4e86646d
+Cleaning company | 4a01ca9682bb4d152cce49587e1addaa
+University | 8c15ec27051fe4d5aa68bc6285414539
